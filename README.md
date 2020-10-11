@@ -4,7 +4,7 @@ wemos d1 shield - accurate thermometer using four sensors, oled 128x64, LDR/CdS,
 
 ### Accurate temperature measurement wemos d1 shield.
 - Wemos D1 Mini shield (ESP8266)
-- Uses 4 high precision sensors from different manufacturers (STS3x, MCP9804, Si7051, MAX31889)
+- Uses 4 high precision sensors from different manufacturers (STS35, MCP9804, Si7051, MAX31889)
 - Sensors arranged within 11x11 mm square, to share common heat sink (heat source).
 - pins D1,D2 for SCL,SDA i2c.
 - Button for input (D0)
@@ -18,5 +18,10 @@ wemos d1 shield - accurate thermometer using four sensors, oled 128x64, LDR/CdS,
 [AccuTemp PCB](https://oshpark.com/shared_projects/EFoyyh8z)
 
 ### BOM at DigiKey
-TODO - add BOM
+- See XLSX file
+- ** NOTE: BOM is sensors and LDO Regulator only **
+- other passives are 0603 resistors, 0805 capacitor
+- CdS LDR from ebay (200k ohm in dark)
+- Red/Green LED (CAC leads) from ebay
+
 
