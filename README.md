@@ -15,10 +15,8 @@ wemos d1 shield - accurate thermometer using four sensors, oled 128x64, LDR/CdS,
 - OLED 128x64 support with swapable Vcc/Gnd pins to handle different pin styles.
 
 ### PCB at OSH Park
-[AccuTemp PCB](https://oshpark.com/projects/EFoyyh8z)
+[AccuTemp PCB](https://oshpark.com/shared_projects/EFoyyh8z)
 
 ### BOM at DigiKey
 TODO - add BOM
-
-
 
